@@ -25,6 +25,7 @@ The notebook explores:
 ---
 
 ## Repository Structure
+```text
 Baseball_closer_project/
 ├── Baseball_analysis_end_of_2025.ipynb
 └── README.md
